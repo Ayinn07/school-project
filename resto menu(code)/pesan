@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h2>
+        <center>
+            <font face="calibri">
+                Daftar Menu
+            </font>
+        </center>
+    </h2> 
+<br><br>
+
+    <center>
+        <table border="0" bordercolor="fff8dc">
+            <tr>
+                <td bgcolor="fff8dc">
+                    <center>
+                    <img src="ngsolar.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                    <img src="ngspes.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <img src="sam.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <img src="telor.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td height="50px" bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Solaria
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Spesial
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Mix
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Telur
+                        </font>
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td height="20px" bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        35K
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        30K
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        40K
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        25K
+                        </font>
+                    </center>
+                </td>
+            </tr>
+        </table>
+    </center>
+    <br><br>
+
+    <center>
+        <table>
+            <tr>
+                <td>
+                    <label for="input">Jumlah</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text" value="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="input">Menu</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <select name="pilih" id="Pilihan Menu">
+                        <option value="1">Nasi</option>
+                        <option value="2">Es</option>
+                        <option value="3">Ikan</option>
+                        <option value="4">Nasi ikan</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </center>
+    <br><br>
+
+        <center>
+    <table border="0" width="150px">
+        <tr>
+            <td>
+                <center>
+                    <font face="calibri">
+                        <input type="submit" value="Pesan Sekarang">
+                    </font>
+                </center>
+            </td>
+        </tr>
+    </table>
+    </center>
+</body>
+</html>
