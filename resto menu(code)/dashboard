@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table width="100%" height="30px">
+        <tr>
+            <td width="20px">
+                 <img src="log.png" alt="logo" width="120px">
+            </td>
+            <td>
+                <font color="" face="calibri" >
+                <center>
+                    <p>
+                        Satu Suapan, Berjuta Kenangan
+                    </p>
+                    <hr color="#ffc40c" width="300px" >
+                </center>
+                </font>
+            </td>
+            <td width="60px">
+                <font color="" face="calibri" > 
+                <center>
+                    <p>
+                        Home
+                    </p>
+                </center>
+                </font>
+            </td>
+            <td width="60px">
+                <font color="" face="calibri" >
+                <center>
+                    <p>
+                        About
+                    </p>
+                </center>
+                </font>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <center>
+        <table bgcolor="#fff8dc" border="0" width="80%" height="50px">
+            <tr>
+                <td width="400px">
+                    <font size="5px" face="calibri">
+                        <center>
+                            <b>
+                                Segalanya dalam satu genggaman: kelezatan Nasi Goreng Reat hanya dengan satu klik.
+                            </b>
+                        </center>
+                    </font>
+                    <font size="3px" face="calibri">
+                        <center>
+                            <p >
+                                Pesan Kilat, Makan Nikmat!!
+                            </p>
+                        </center>
+                    </font>
+                </td>
+                <td width="610px">
+                    <table  background="nasi.jpg" width="610px" height="400">
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+    <br>
+    <br>
+    <br>
+
+    <h2>
+        <center>
+            <font face="calibri">
+                Reat Area
+            </font>
+        </center>
+    </h2>
+    <br><br>
+
+    <center>
+       <table border="0" width="80%">
+            <tr>
+                <td width="50%">
+                    <center>
+                        <img src="area.jpg" alt="" width="350px" height="200px">
+                    </center>
+                </td>
+                <td>
+                    <center>
+                        <font face="calibri">
+                            Kasir kami melayani dengan ramah dan sigap, membantu setiap pelanggan memesan dengan mudah agar pengalaman berkunjung terasa nyaman.
+                            <hr color="#ffc40c">
+                        </font>
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td height="25px">    
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center>
+                        <font face="calibri">
+                            Kasir kami siap melayani dengan ramah dan sigap, memastikan setiap pelanggan merasa nyaman saat memesan.
+                            <hr color="#ffc40c" width="430px">
+                        </font>
+                    </center>
+                </td>
+                <td>
+                    <center>
+                        <img src="kasir.jpg" alt="" width="350px" height="200px">
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td height="25px">
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center>
+                        <img src="tugu.jpg" alt="" width="350px" height="200px">
+                    </center>
+                </td>
+                <td>
+                    <center>
+                        <font face="calibri">
+                            Berlokasi tepat di depan Tugu Jogja, sehingga mudah dijangkau dan menjadi tempat yang pas untuk singgah menikmati suasana kota.
+                            <hr color="#ffc40c" width="400px">
+                        </font>
+                    </center>
+                </td>
+            </tr>
+       </table>
+    </center>
+    <br><br>
+
+    <h2>
+        <center>
+            <font face="calibri">
+                Daftar Menu
+            </font>
+        </center>
+    </h2> 
+<br><br>
+
+    <center>
+        <table border="0" bordercolor="fff8dc">
+            <tr>
+                <td bgcolor="fff8dc">
+                    <center>
+                    <img src="ngsolar.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                    <img src="ngspes.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <img src="sam.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <img src="telor.jpg" alt="" width="200px" height="120px">
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td height="50px" bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Solaria
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Spesial
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Mix
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        Nasi Goreng Telur
+                        </font>
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td height="20px" bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        35K
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        30K
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        40K
+                        </font>
+                    </center>
+                </td>
+                <td width="25px">
+                </td>
+                <td bgcolor="fff8dc">
+                    <center>
+                        <font face="Papyrus">
+                        25K
+                        </font>
+                    </center>
+                </td>
+            </tr>
+        </table>
+    </center>
+    <br><br>
+
+    <center>
+    <table border="0" width="150px">
+        <tr>
+            <td>
+                <center>
+                    <font face="calibri">
+                        <a href="pesan.html">
+                        <input type="submit" value="Tertarik? Klik Disini">
+                        </a>
+                    </font>
+                </center>
+            </td>
+        </tr>
+    </table>
+    </center>
+</body>
+</html>
