@@ -1,0 +1,91 @@
+        body {
+            margin: 0;
+        }
+        
+        .induk {
+            display: flex;
+            justify-content: center;
+            gap: 3%;
+            margin-top: 5%;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap; /* Ini kuncinya agar tidak gepeng */
+            grid-template-columns: repeat(3, 1fr); /* Membuat 3 kolom */
+            gap: 20px; /* Jarak antar card */
+            max-width: 1000px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        /* Desain Utama Card */
+        .card {
+            flex: 0 0 300px;
+            background-color: #fff8dc;
+            border: 1px solid #fff8dc;
+            border-radius: 10px;
+            overflow: hidden; 
+            color: black;
+        }
+
+        /* Area Thumbnail (Kotak Abu-abu) */
+        .thumbnail {
+        width: 100%;
+        aspect-ratio: 16 / 9; /* Ini akan membuat kotak otomatis proporsional */
+        background-size: cover; /* Pakai cover agar penuh */
+        background-position: center; /* Agar bagian tengah foto yang diambil */
+        }
+
+        /* Bagian Teks di bawah Thumbnail */
+        .card-body {
+            padding: 15px;
+        }
+
+        .card-text {
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 15px;
+            color: black;
+        }
+
+        /* Pengaturan Tombol dan Waktu (9 mins) */
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .btn-group {
+            display: flex;
+        }
+
+        .btn {
+            background: #dbad2f;
+            border: 1px solid #dbad2f;
+            color: #ffffff;
+            padding: 5px 10px;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        /* Membuat sudut tumpul hanya di ujung grup tombol */
+        .btn-left {
+            border-top-left-radius: 4px;
+            border-bottom-left-radius: 4px;
+        }
+
+        .btn-right {
+            border-top-right-radius: 4px;
+            border-bottom-right-radius: 4px;
+            border-left: none; /* Menghilangkan garis double di tengah */
+        }
+
+        .btn:hover {
+            background-color: #8E6E15;
+            color: yellow;
+        }
+
+        .text-muted {
+            color: #dbad2f;
+            font-size: 15px;
+        }
